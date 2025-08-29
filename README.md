@@ -1,6 +1,6 @@
 # Netflix Dashboard
 
-<h1>🎬 Project Title</h1> <h2>-Netflix Insights Dashboard</h2>
+ <h2>🎬 Project Title - Netflix Insights Dashboard</h2>
 
 <h3>📖 Overview:</h3><p>This project is a Tableau dashboard analyzing Netflix’s content library. It highlights the distribution of titles across countries, ratings, and types (Movies vs. TV Shows).</p>
 
